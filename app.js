@@ -2,7 +2,7 @@
 window.alert("This is only for pc version, to play please click on arrow keys on you keyboard")
 
 const NUM_BUSHES = 40;
-const NUM_BALLS = 50;
+const NUM_BALLS = 80;
 
 const player = document.querySelector(".player");
 const player_pos = {
